@@ -1,5 +1,7 @@
-streamlit
+streamlit<1.30
 google-api-python-client
-textblob
+pandas
 matplotlib
-pandas        
+textblob
+protobuf==3.20.3
+
